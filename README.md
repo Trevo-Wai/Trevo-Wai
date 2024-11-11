@@ -1,0 +1,6 @@
+- 👋  Hi there! I'm Kaung Phone Wai, a passionate QA Engineer with a knack for finding bugs and improving software quality
+- 👀 I’m interested in Finding bug
+- 🌱 I’m currently learning: Java Script, K6, and new automation techniques.
+- 📫 How to reach me kaungphonewai2001@gmail.com or connect with me on LinkedIn!(www.linkedin.com/in/kaungp)
+- 😄 Pronouns: He/Him
+- 🔍 How it all started: My interest in QA began in an unusual place—gaming! I discovered a bug in a game, exploited it (for science, of course! 😄), and realized how fascinating it is to find hidden issues and improve systems. Now, I bring that same curiosity and drive to every project I work on.
